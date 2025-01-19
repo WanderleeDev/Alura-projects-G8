@@ -14,7 +14,6 @@ PD: Se implementaron 2 soluciones
 - [Instalación](#instalación)
 - [Dependencias](#dependencias)
 - [Uso](#uso)
-- [Problemas Comunes](#problemas-comunes)
 - [Contacto](#contacto)
 
 ## Características
@@ -55,16 +54,6 @@ Instrucciones sobre cómo usar el proyecto.
 # Opcional: Puedes  abrir el archivo index.html en un navegador directamente
 
 ```
-
-## Problemas Comunes
-
-### No se muestra la lista de amigos
-
-Asegúrate de que has agregado al menos dos nombres antes de intentar sortear.
-
-### El botón de sortear no funciona
-
-Verifica que el archivo `app.js` esté correctamente vinculado en el archivo `index.html`.
 
 ## Contacto
 
