@@ -2,6 +2,8 @@
 
 ![course coursera](./assets/cover.png)
 
+[Ver proyecto desplegado](https://amigo-secreto-ten-wheat.vercel.app/)
+
 Este proyecto es una aplicación web para organizar un juego de "Amigo Secreto", donde los usuarios pueden agregar nombres de amigos y sortear un ganador.
 PD: Se implementaron 2 soluciones
 
@@ -13,8 +15,6 @@ PD: Se implementaron 2 soluciones
 - [Dependencias](#dependencias)
 - [Uso](#uso)
 - [Problemas Comunes](#problemas-comunes)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
 - [Contacto](#contacto)
 
 ## Características
@@ -26,7 +26,8 @@ PD: Se implementaron 2 soluciones
 ## Requisitos
 
 - Navegador web moderno.
-- Conexión a Internet (para cargar fuentes externas).
+- Editor de texto
+- Live server u otra extensión que permita levantar el proyecto en local
 
 ## Instalación
 
@@ -34,12 +35,10 @@ Instrucciones para instalar el proyecto.
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu_usuario/nombre_del_proyecto.git
+git clone https://github.com/WanderleeDev/Alura-projects-G8
 
 # Navegar al directorio del proyecto
-cd nombre_del_proyecto
-
-# No se requieren dependencias adicionales
+cd  challenge-amigo-secreto_esp-main
 ```
 
 ## Dependencias
@@ -51,7 +50,10 @@ cd nombre_del_proyecto
 Instrucciones sobre cómo usar el proyecto.
 
 ```bash
-# Abrir el archivo index.html en un navegador
+# Levantar un servidor local, recomendación live server en Visual Code
+
+# Opcional: Puedes  abrir el archivo index.html en un navegador directamente
+
 ```
 
 ## Problemas Comunes
@@ -64,22 +66,9 @@ Asegúrate de que has agregado al menos dos nombres antes de intentar sortear.
 
 Verifica que el archivo `app.js` esté correctamente vinculado en el archivo `index.html`.
 
-## Contribuciones
-
-Instrucciones sobre cómo contribuir al proyecto.
-
-1. Haz un fork del repositorio.
-2. Crea una nueva rama (`git checkout -b feature/nueva-caracteristica`).
-3. Realiza tus cambios y haz commit (`git commit -m 'Añadir nueva característica'`).
-4. Haz push a la rama (`git push origin feature/nueva-caracteristica`).
-5. Abre un Pull Request.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
-
 ## Contacto
 
-Tu nombre - [tu_email@example.com](mailto:tu_email@example.com)
+[Wanderlee Max](https://www.linkedin.com/in/wanderlee-max/)
 
-Enlace al proyecto: [https://github.com/tu_usuario/nombre_del_proyecto](https://github.com/tu_usuario/nombre_del_proyecto)
+- GitHub: [@WanderleeDev](https://github.com/WanderleeDev)
+- LinkedIn: [@WanderleeMax](https://www.linkedin.com/in/wanderlee-max/)
