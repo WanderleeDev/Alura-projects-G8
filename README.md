@@ -28,7 +28,13 @@ Aplicación ATM para terminal desarrollado en java, manejo de errores, condicion
 
 ## Certificados
 
-En progreso ...
+[Logica de programacón en javascript](https://app.aluracursos.com/user/xamperu3/degree-programacion-primeros-pasos-15697/certificate)
+
+[Principiante en programación](https://app.aluracursos.com/user/xamperu3/degree-programacion-primeros-pasos-grupo8-one-15914/certificate)
+
+[Desarrollo personal](https://app.aluracursos.com/user/xamperu3/degree-desarrollo-personal-grupo8-one-15913/certificate)
+
+[Emprendimiento Agilidad y Protagonismo Profesional](https://app.aluracursos.com/user/xamperu3/degree-emprendimiento-agilidad-y-protagonismo-profesional-grupo8-one-15949/certificate)
 
 ## Autor
 
