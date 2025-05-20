@@ -17,7 +17,13 @@ Aplicación web para organizar un juego de "Amigo Secreto", donde los usuarios p
 
 Aplicación ATM para terminal desarrollado en java, manejo de errores, condicionales, bucles y separación de código.
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WanderleeDev/Alura-projects-G8/tree/main/challenge-amigo-secreto_esp-main)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WanderleeDev/Alura-projects-G8/tree/main/Atm)
+
+### 3. [Purchase Control](https://github.com/WanderleeDev/Alura-projects-G8/tree/main/control-de-compras)
+
+Aplicación ATM para terminal desarrollado en java, usando POO
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WanderleeDev/Alura-projects-G8/tree/main/control-de-compras)
 
 ## Tecnologías usadas
 
