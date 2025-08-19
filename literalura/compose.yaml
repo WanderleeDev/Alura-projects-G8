@@ -1,0 +1,9 @@
+services:
+  postgres:
+    image: 'postgres:latest'
+    environment:
+      - 'POSTGRES_DB=literalura'
+      - 'POSTGRES_PASSWORD=deleveop'
+      - 'POSTGRES_USER=user-developer'
+    ports:
+      - '5432'
